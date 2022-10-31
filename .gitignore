@@ -5,6 +5,5 @@ private/
 # Проигнорируйте подкаталог tmp
 tmp/
 # Проигнорируйте файлы Thumbs.db и .DS_Store
-**/Thumbs.db/
-**/.DS_Store/
-DS_Store >> ~/.gitignore_global
+Thumbs.db
+.DS_Store
