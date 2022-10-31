@@ -1,6 +1,5 @@
-private/
 *_old
 *_backup
-private/tmp
-private/Thumbs.db
-private/.DS_Store
+private/ tmp
+private/ Thumbs.db
+private/ .DS_Store
