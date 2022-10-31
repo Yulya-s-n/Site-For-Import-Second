@@ -5,5 +5,5 @@ private/
 # Проигнорируйте подкаталог tmp
 tmp/
 # Проигнорируйте файлы Thumbs.db и .DS_Store
-Thumbs.db
-.DS_Store
+Thumbs.db/
+.DS_Store/
