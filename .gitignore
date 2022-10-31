@@ -1,5 +1,8 @@
+# Проигнорируйте файлы,заканчивающиеся суффиксами _old, _backup
 *_old
 *_backup
-tmp/
-Thumbs.db/
-.DS_Store/
+# Проигнорируйте подкаталог tmp
+/tmp/
+Проигнорируйте файлы Thumbs.db и .DS_Store
+/Thumbs.db/
+/.DS_Store/
